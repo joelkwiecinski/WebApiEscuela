@@ -23,7 +23,6 @@ namespace WebApiEscuela.Controllers
 
 
 
-
         //GET: /api/alumno/
         [HttpGet]
         public List<Alumno> Get()
